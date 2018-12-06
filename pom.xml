@@ -9,6 +9,7 @@
     <modules>
     	<module>chapter2</module>
     	<module>chapter4</module>
+    	<module>chapter12</module>
     </modules>
     
     <properties>
